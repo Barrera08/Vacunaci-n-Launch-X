@@ -1,2 +1,2 @@
 # Vacunaci-n-Launch-X
-práctiva clon vacunación
+práctica clon vacunación
